@@ -43,7 +43,9 @@ jobs:
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md
-        
+        find . -name README.md|xargs sed -i '/head/i <!--'   
+        find . -name README.md|xargs sed -i '/bottom/a -->'    
+
     - name: Push README.md
     # 将写入的文件推送到仓库
       run: |
