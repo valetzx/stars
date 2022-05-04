@@ -20,4 +20,6 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-      run: starred --username valetzx --sort > README.MD
+      run: |
+        starred --username valetzx --sort > README.MD
+        cat README.MD
