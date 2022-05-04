@@ -31,7 +31,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       run: |
-        git submodule add https://github.com/valetzx/alist-build-on-replit 
+        ls -a
+        git submodule add https://github.com/valetzx/alist-build-on-replit alist-build-on-replit 
         git submodule add https://github.com/valetzx/chatroomonreplit chatroom-on-replit 
         git submodule add https://github.com/valetzx/mcserveronreplit mcserver-on-replit 
         git submodule add https://github.com/zkeq/Busuanzi_backend_self busuanzi-backend-self-replit
