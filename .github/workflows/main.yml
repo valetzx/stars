@@ -3,6 +3,19 @@ on:
   workflow_dispatch:
   schedule:
   - cron: 27 0 * * *
+
+env:
+  # Hexo 编译后使用此 git 用户部署到 github 仓库
+  GIT_USER: valetzx
+  # Hexo 编译后使用此 git 邮箱部署到 github 仓库
+  GIT_EMAIL: 550029691@qq.com
+  # Hexo 编译后要部署的 github 仓库
+  GIT_DEPLOY_REPO: valetzx/stars
+  # Hexo 编译后要部署到的分支
+  GIT_DEPLOY_BRANCH: main
+  # 注意替换为你的 GitHub 源仓库地址
+  GIT_SOURCE_REPO: git@github.com:valetzx/stars.git
+
 jobs:
   awesome-stars:
     name: update stars
@@ -30,5 +43,6 @@ jobs:
         git init && git add README.md
         git config user.name "valetzx"
         git config user.email "550029691@qq.com"
+        git add README.md
         git commit -m "GitHub Actions Auto Builder at $(date +'%Y-%m-%d %H:%M:%S')"
-        git push --quiet "https://${{ secrets.MY_TOKEN }}@github.com/valetzx/stars" main:main
+        git push --force --quiet "https://${{ secrets.MY_TOKEN }}@github.com/valetzx/stars" main:main
