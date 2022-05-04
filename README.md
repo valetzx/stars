@@ -1,5 +1,5 @@
 
-### 本仓库意备份Replit白嫖仓库，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！ 
+### 本仓库意备份Replit白嫖收藏，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！如果您有合适的仓库也可以发送issue或PR新文件夹 
  
 ## Contents
   - [EJS](#ejs)
