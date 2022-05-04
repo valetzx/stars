@@ -57,4 +57,4 @@ jobs:
         git config user.email "550029691@qq.com"
         git add .
         git commit -m "GitHub Actions Clone at $(date +'%Y-%m-%d %H:%M:%S')"
-        git push --quiet "https://${{ secrets.MY_TOKEN }}@github.com/valetzx/stars" HEAD:main
+        git push --quiet "https://${{ secrets.MY_TOKEN }}@github.com/valetzx/stars" main:main
