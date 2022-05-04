@@ -39,7 +39,6 @@ jobs:
         sed -i '2 d' README.md
         sed -i '3 d' README.md
         sed -i '4 d' README.md
-        sed -i '5 d' README.md
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md  
