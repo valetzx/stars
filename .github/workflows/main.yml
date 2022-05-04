@@ -21,9 +21,14 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       run: |
-        starred --username valetzx --sort > README.MD
+        starred --username valetzx --sort > README.md
         
-    - name: Push README.MD
+    - name: Push README.md
     # 将写入的文件推送到仓库
       run: |
         ls -a
+        git init && git add README.md
+        git config user.name "valetzx"
+        git config user.email "550029691@qq.com"
+        git commit -m "GitHub Actions Auto Builder at $(date +'%Y-%m-%d %H:%M:%S')"
+        git push --force --quiet "https://${{ secrets.MY_TOKEN }}@github.com/valetzx/stars" master:master
