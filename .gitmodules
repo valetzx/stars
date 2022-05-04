@@ -1,0 +1,33 @@
+[submodule "alist-build-on-replit"]
+	path = alist-build-on-replit
+	url = https://github.com/valetzx/alist-build-on-replit
+[submodule "chatroom-on-replit"]
+	path = chatroom-on-replit
+	url = https://github.com/valetzx/chatroomonreplit
+[submodule "mcserver-on-replit"]
+	path = mcserver-on-replit
+	url = https://github.com/valetzx/mcserveronreplit
+[submodule "busuanzi-backend-self-replit"]
+	path = busuanzi-backend-self-replit
+	url = https://github.com/zkeq/Busuanzi_backend_self
+[submodule "uptime-kuma-on-replit"]
+	path = uptime-kuma-on-replit
+	url = https://github.com/valetzx/uptimekumaonreplit
+[submodule "artalk-on-replit"]
+	path = artalk-on-replit
+	url = https://github.com/chuyua/replit-artalk
+[submodule "onedrive-vercel-index-on-replit"]
+	path = onedrive-vercel-index-on-replit
+	url = https://github.com/valetzx/onedrivereplindex
+[submodule "nodebb-on-replit"]
+	path = nodebb-on-replit
+	url = https://github.com/chuyua/relp-nodebb
+[submodule "yesplaymusic-on-replit"]
+	path = yesplaymusic-on-replit
+	url = https://github.com/valetzx/musiconreplit
+[submodule "vscode-on-replit"]
+	path = vscode-on-replit
+	url = https://github.com/valetzx/vscodeonreplit
+[submodule "nodeunblock-on-replit"]
+	path = nodeunblock-on-replit
+	url = https://github.com/valetzx/nodeunblockreplit
