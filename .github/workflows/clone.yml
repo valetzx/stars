@@ -31,17 +31,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       run: |
-        git submodule sync --recursive https://github.com/valetzx/alist-build-on-replit alist-build-on-replit 
-        git submodule sync --recursive https://github.com/valetzx/chatroomonreplit chatroom-on-replit 
-        git submodule sync --recursive https://github.com/valetzx/mcserveronreplit mcserver-on-replit 
-        git submodule sync --recursive https://github.com/zkeq/Busuanzi_backend_self busuanzi-backend-self-replit
-        git submodule sync --recursive https://github.com/valetzx/uptimekumaonreplit uptime-kuma-on-replit 
-        git submodule sync --recursive https://github.com/chuyua/replit-artalk artalk-on-replit
-        git submodule sync --recursive https://github.com/valetzx/onedrivereplindex onedrive-vercel-index-on-replit
-        git submodule sync --recursive https://github.com/chuyua/relp-nodebb nodebb-on-replit
-        git submodule sync --recursive https://github.com/valetzx/musiconreplit yesplaymusic-on-replit 
-        git submodule sync --recursive https://github.com/valetzx/vscodeonreplit vscode-on-replit 
-        git submodule sync --recursive https://github.com/valetzx/nodeunblockreplit nodeunblock-on-replit 
+        git submodule update --init
 
     - name: Push clone
     # 将写入的文件推送到仓库
