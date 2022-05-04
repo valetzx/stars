@@ -1,4 +1,4 @@
-name: update awesome-stars
+name: update my stars
 on:
   workflow_dispatch:
   schedule:
@@ -43,8 +43,8 @@ jobs:
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md
-        find . -name README.md|xargs sed -i '/head/i <!--'   
-        find . -name README.md|xargs sed -i '/bottom/a -->'    
+        find . -name README.md|xargs sed -i '/Contents/i head'   
+        find . -name README.md|xargs sed -i '/License/a bottom'    
 
     - name: Push README.md
     # 将写入的文件推送到仓库
