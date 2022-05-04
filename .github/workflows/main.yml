@@ -43,11 +43,8 @@ jobs:
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md  
         sed -i '/License/{n;d}' README.md
-        find . -name README.md|xargs sed -i '/Contents/i ### 本仓库意备份Replit白嫖仓库，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！ '
-        find . -name README.md|xargs sed -i '/License/a ### 本README使用 https://github.com/maguowei/starred 项目生成 '
-        find . -name README.md|xargs sed -e '/Contents/i '
-        find . -name README.md|xargs sed -e '/License/a '
-        sed -i '1 d' README.md
+        find . -name README.md|xargs sed -i '/Contents/ni\ ### 本仓库意备份Replit白嫖仓库，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！ '
+        find . -name README.md|xargs sed -i '/License/na\ ### 本README使用 https://github.com/maguowei/starred 项目生成 '
 
     - name: Push README.md
     # 将写入的文件推送到仓库
