@@ -1,4 +1,4 @@
-name: update my stars
+name: clone my stars
 on:
   workflow_dispatch:
   schedule:
