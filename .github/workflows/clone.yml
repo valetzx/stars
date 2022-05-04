@@ -42,6 +42,7 @@ jobs:
         git clone https://github.com/valetzx/musiconreplit yesplaymusic-on-replit 
         git clone https://github.com/valetzx/vscodeonreplit vscode-on-replit 
         git clone https://github.com/valetzx/nodeunblockreplit nodeunblock-on-replit 
+        git submodule update --init --recursive
 
     - name: Push clone
     # 将写入的文件推送到仓库
