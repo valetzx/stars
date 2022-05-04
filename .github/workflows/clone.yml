@@ -31,18 +31,17 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       run: |
-        ls -a
-        git submodule add https://github.com/valetzx/alist-build-on-replit alist-build
-        git submodule add https://github.com/valetzx/chatroomonreplit chatroom
-        git submodule add https://github.com/valetzx/mcserveronreplit mcserver
-        git submodule add https://github.com/zkeq/Busuanzi_backend_self busuanzi-backend-self
-        git submodule add https://github.com/valetzx/uptimekumaonreplit uptime-kuma
-        git submodule add https://github.com/chuyua/replit-artalk artalk
-        git submodule add https://github.com/valetzx/onedrivereplindex onedrive-vercel-index
-        git submodule add https://github.com/chuyua/relp-nodebb nodebb
-        git submodule add https://github.com/valetzx/musiconreplit yesplaymusic
-        git submodule add https://github.com/valetzx/vscodeonreplit vscode
-        git submodule add https://github.com/valetzx/nodeunblockreplit nodeunblock
+        git submodule add https://github.com/valetzx/alist-build-on-replit alist-build-on-replit 
+        git submodule add https://github.com/valetzx/chatroomonreplit chatroom-on-replit 
+        git submodule add https://github.com/valetzx/mcserveronreplit mcserver-on-replit 
+        git submodule add https://github.com/zkeq/Busuanzi_backend_self busuanzi-backend-self-replit
+        git submodule add https://github.com/valetzx/uptimekumaonreplit uptime-kuma-on-replit 
+        git submodule add https://github.com/chuyua/replit-artalk artalk-on-replit
+        git submodule add https://github.com/valetzx/onedrivereplindex onedrive-vercel-index-on-replit
+        git submodule add https://github.com/chuyua/relp-nodebb nodebb-on-replit
+        git submodule add https://github.com/valetzx/musiconreplit yesplaymusic-on-replit 
+        git submodule add https://github.com/valetzx/vscodeonreplit vscode-on-replit 
+        git submodule add https://github.com/valetzx/nodeunblockreplit nodeunblock-on-replit 
 
     - name: Push clone
     # 将写入的文件推送到仓库
