@@ -34,6 +34,8 @@ jobs:
         git branch -a
         git fetch
         git checkout origin/main
+        git checkout -b main
+        git branch -u origin/main main
         git submodule sync --recursive https://github.com/valetzx/alist-build-on-replit alist-build-on-replit 
         git submodule sync --recursive https://github.com/valetzx/chatroomonreplit chatroom-on-replit 
         git submodule sync --recursive https://github.com/valetzx/mcserveronreplit mcserver-on-replit 
