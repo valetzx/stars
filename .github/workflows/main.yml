@@ -35,6 +35,14 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       run: |
         starred --username valetzx --sort > README.md
+        sed -i '1 d' README.md
+        sed -i '2 d' README.md
+        sed -i '3 d' README.md
+        sed -i '4 d' README.md
+        sed -i '/License/{n;d}' README.md  
+        sed -i '/License/{n;d}' README.md  
+        sed -i '/License/{n;d}' README.md  
+        sed -i '/License/{n;d}' README.md
         
     - name: Push README.md
     # 将写入的文件推送到仓库
