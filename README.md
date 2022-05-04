@@ -1,6 +1,6 @@
 
 
-head
+### 本仓库意备份Replit白嫖仓库，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！ 
 ## Contents
   - [EJS](#ejs)
   - [HTML](#html)
@@ -84,5 +84,5 @@ head
 
 
 ## License
-bottom
+### 本README使用 https://github.com/maguowei/starred 项目生成 
 
