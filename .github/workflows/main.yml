@@ -19,5 +19,5 @@ jobs:
         pip install starred
     - name: update repo
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username maguowei --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+        GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+      run: starred --username maguowei --repository awesome-stars --sort --token ${MY_TOKEN} --message 'stars update by github actions cron'
