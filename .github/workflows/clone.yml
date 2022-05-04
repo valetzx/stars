@@ -27,6 +27,11 @@ jobs:
       with:
         python-version: 3.7
 
+    - name: add time #添加时间，防止无内容可commit
+      run: | 
+        sudo timedatectl set-timezone "Asia/Shanghai"
+        echo `date +"%Y-%m-%d %H:%M:%S"` begin > time.log
+
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
