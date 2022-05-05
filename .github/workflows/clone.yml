@@ -24,7 +24,10 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-
+    - name: pull main 
+      run: |
+        git pull origin main
+        
     - name: add time #添加时间，防止无内容可commit
       run: | 
         sudo timedatectl set-timezone "Asia/Shanghai"
