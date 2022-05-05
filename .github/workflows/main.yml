@@ -54,7 +54,6 @@ jobs:
     - name: Push README.md
     # 将写入的文件推送到仓库
       run: |
-        ls -a
         git init && git add README.md
         git config user.name "valetzx"
         git config user.email "550029691@qq.com"
