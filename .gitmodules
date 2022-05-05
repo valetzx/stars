@@ -1,9 +1,3 @@
-# ADD NEW 
-
-[submodule "github-activity-graph-on-replit"]
-	path = github-activity-graph-on-replit
-	url = https://github.com/valetzx/githubactivitygraphonreplit
-
 [submodule "alist-build-on-replit"]
 	path = alist-build-on-replit
 	url = https://github.com/valetzx/alist-build-on-replit
