@@ -1,8 +1,12 @@
 name: clone my stars
-on:
-  workflow_dispatch:
+on: 
+  push:
+    branches: 
+      - master
   schedule:
-  - cron: 37 0 * * *
+    - cron: '37 0 * * *'
+  watch:
+    types: [started]
 
 env:
   GIT_USER: valetzx
