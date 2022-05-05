@@ -26,7 +26,7 @@ jobs:
         python-version: 3.7
     - name: pull main 
       run: |
-        git submodule add https://github.com/valetzx/githubactivitygraphonreplit github-activity-graph-on-replit
+      #*git submodule add https://github.com/valetzx/githubactivitygraphonreplit github-activity-graph-on-replit
         git pull origin main
         
     - name: add time #添加时间，防止无内容可commit
