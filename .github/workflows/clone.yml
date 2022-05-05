@@ -38,7 +38,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       run: |
-        git submodule update --init
+        git submodule update --init --recursive
+        git submodule sync 
 
     - name: Push clone
     # 将写入的文件推送到仓库
