@@ -39,6 +39,7 @@
 
 ## JavaScript 
 
+- [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
 - [AlexiaChen/AlexiaChen.github.io](https://github.com/AlexiaChen/AlexiaChen.github.io) - My Blog https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 - [valetzx/vscodeonreplit](https://github.com/valetzx/vscodeonreplit) - 在Replit部署vscode-server
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
@@ -84,7 +85,7 @@
 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Teahouse-Studios/tinter](https://github.com/Teahouse-Studios/tinter) - 女生自用你画我猜多人游戏服务
-- [pigeonpig/onedrive-image-hosting](https://github.com/pigeonpig/onedrive-image-hosting) - 
+- [pigeonpig/onedrive-image-hosting](https://github.com/pigeonpig/onedrive-image-hosting) - 什么onedrive图片直链？
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 
 ## Vue 
