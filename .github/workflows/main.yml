@@ -26,7 +26,7 @@ jobs:
         python-version: 3.7
     - name: Install dependencies
       run: |
-        git pull origin next
+        git pull origin main
         python -m pip install --upgrade pip
         pip install starred
 
