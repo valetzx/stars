@@ -7,6 +7,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
   - [Shell](#shell)
@@ -38,12 +39,17 @@
 
 ## JavaScript 
 
+- [AlexiaChen/AlexiaChen.github.io](https://github.com/AlexiaChen/AlexiaChen.github.io) - My Blog https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 - [valetzx/vscodeonreplit](https://github.com/valetzx/vscodeonreplit) - 在Replit部署vscode-server
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
 - [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit) - hosting lavalink on replit has never been easier than before. just click on run then you’re done.
 - [LianjiaTech/ke-snap](https://github.com/LianjiaTech/ke-snap) - 网页截图
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+
+## Others 
+
+- [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 
 ## PHP 
 
@@ -60,6 +66,7 @@
 
 ## Shell 
 
+- [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 
 - [valetzx/nodeunblockreplit](https://github.com/valetzx/nodeunblockreplit) - 在Replit部署 https://github.com/nfriedly/node-unblocker
 - [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 轻论坛
 - [valetzx/onedrivereplindex](https://github.com/valetzx/onedrivereplindex) - 在Replit部署 onedrive-vercel-index
@@ -75,10 +82,14 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [Teahouse-Studios/tinter](https://github.com/Teahouse-Studios/tinter) - 女生自用你画我猜多人游戏服务
+- [pigeonpig/onedrive-image-hosting](https://github.com/pigeonpig/onedrive-image-hosting) - 
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 
 ## Vue 
 
+- [diaseu/weekly-task-vue](https://github.com/diaseu/weekly-task-vue) - Weekly Task App made in Vue.js
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
