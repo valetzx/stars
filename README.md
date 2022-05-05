@@ -12,6 +12,7 @@
   - [PHP](#php)
   - [Python](#python)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -40,6 +41,8 @@
 
 ## JavaScript 
 
+- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
+- [valetzx/hexoonreplit](https://github.com/valetzx/hexoonreplit) - Build hexo on Replit
 - [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
 - [AlexiaChen/AlexiaChen.github.io](https://github.com/AlexiaChen/AlexiaChen.github.io) - My Blog https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 - [valetzx/vscodeonreplit](https://github.com/valetzx/vscodeonreplit) - 在Replit部署vscode-server
@@ -64,6 +67,7 @@
 
 ## Python 
 
+- [zkeq/Python-WebSite-Screenshot](https://github.com/zkeq/Python-WebSite-Screenshot) - 
 - [valetzx/uptimekumaonreplit](https://github.com/valetzx/uptimekumaonreplit) - 在Replit自建uptime-kuma监控
 - [zkeq/Busuanzi_backend_self](https://github.com/zkeq/Busuanzi_backend_self) - Backend Substitutes For Busuanzi.
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
@@ -74,13 +78,16 @@
 
 - [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 使用githubaction在flyio部署alist
 - [valetzx/nodeunblockreplit](https://github.com/valetzx/nodeunblockreplit) - 在Replit部署 https://github.com/nfriedly/node-unblocker
-- [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 轻论坛
 - [valetzx/onedrivereplindex](https://github.com/valetzx/onedrivereplindex) - 在Replit部署 onedrive-vercel-index
 - [chuyua/replit-artalk](https://github.com/chuyua/replit-artalk) - 在Replit自建artalk-go评论区后端
 - [valetzx/cloudreveonreplit](https://github.com/valetzx/cloudreveonreplit) - 在Replit上自建cloudreve网盘
 - [valetzx/mcserveronreplit](https://github.com/valetzx/mcserveronreplit) - 白嫖3G我的世界服务器
 - [valetzx/chatroomonreplit](https://github.com/valetzx/chatroomonreplit) - 在Replit部署匿名聊天室
 - [valetzx/alist-build-on-replit](https://github.com/valetzx/alist-build-on-replit) - 在Replit构建Alist网盘列表
+
+## Smarty 
+
+- [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - nodebb轻论坛
 
 ## TeX 
 
