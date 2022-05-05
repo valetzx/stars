@@ -2,6 +2,7 @@
 ### 本仓库意备份Replit白嫖收藏，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！如果您有合适的仓库也可以发送issue或PR新文件夹 
  
 ## Contents
+  - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
   - [HTML](#html)
   - [Java](#java)
@@ -13,6 +14,10 @@
   - [TypeScript](#typescript)
   - [Vue](#vue)
   - [ZenScript](#zenscript)
+
+## Dockerfile 
+
+- [pigeonpig/gatus-on-heroku](https://github.com/pigeonpig/gatus-on-heroku) - deploy gatus with heroku
 
 ## EJS 
 
@@ -63,7 +68,6 @@
 - [valetzx/mcserveronreplit](https://github.com/valetzx/mcserveronreplit) - 白嫖3G我的世界服务器
 - [valetzx/chatroomonreplit](https://github.com/valetzx/chatroomonreplit) - 在Replit部署匿名聊天室
 - [valetzx/alist-build-on-replit](https://github.com/valetzx/alist-build-on-replit) - 在Replit构建Alist网盘列表
-- [York618/alist-flyio](https://github.com/York618/alist-flyio) - 
 
 ## TeX 
 
