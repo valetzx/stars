@@ -7,6 +7,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Nix](#nix)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -47,6 +48,10 @@
 - [LianjiaTech/ke-snap](https://github.com/LianjiaTech/ke-snap) - 网页截图
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+
+## Nix 
+
+- [valetzx/githubactivitygraphonreplit](https://github.com/valetzx/githubactivitygraphonreplit) - 在 Replit 部署 github-readme-activity-graph
 
 ## Others 
 
