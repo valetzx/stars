@@ -5,15 +5,11 @@ on:
   - cron: 37 0 * * *
 
 env:
-  # Hexo 编译后使用此 git 用户部署到 github 仓库
   GIT_USER: valetzx
-  # Hexo 编译后使用此 git 邮箱部署到 github 仓库
   GIT_EMAIL: 550029691@qq.com
-  # Hexo 编译后要部署的 github 仓库
   GIT_DEPLOY_REPO: valetzx/stars
-  # Hexo 编译后要部署到的分支
   GIT_DEPLOY_BRANCH: main
-  # 注意替换为你的 GitHub 源仓库地址
+  # 注意替换为你的 GitHub 源仓库地址 这里整个env似乎没啥作用
   GIT_SOURCE_REPO: git@github.com:valetzx/stars.git
 
 jobs:
