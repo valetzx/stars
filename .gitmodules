@@ -31,3 +31,6 @@
 [submodule "nodeunblock-on-replit"]
 	path = nodeunblock-on-replit
 	url = https://github.com/valetzx/nodeunblockreplit
+[submodule "github-activity-graph-on-replit"]
+	path = github-activity-graph-on-replit
+	url = https://github.com/valetzx/githubactivitygraphonreplit
