@@ -67,7 +67,7 @@
 
 ## Shell 
 
-- [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 
+- [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 使用githubaction在flyio部署alist
 - [valetzx/nodeunblockreplit](https://github.com/valetzx/nodeunblockreplit) - 在Replit部署 https://github.com/nfriedly/node-unblocker
 - [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 轻论坛
 - [valetzx/onedrivereplindex](https://github.com/valetzx/onedrivereplindex) - 在Replit部署 onedrive-vercel-index
