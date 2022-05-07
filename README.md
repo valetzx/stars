@@ -29,7 +29,6 @@
 ## HTML 
 
 - [valetzx/musiconreplit](https://github.com/valetzx/musiconreplit) - 在 Replit 部署 YesPlayMusic 网页端
-- [valetzx/alist-with-v2replit](https://github.com/valetzx/alist-with-v2replit) - alist with v2replit
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
 
 ## Java 
@@ -87,7 +86,7 @@
 
 ## Smarty 
 
-- [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - nodebb轻论坛
+- [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 在 Replit 部署 nodebb论坛+PostgreSQL数据库
 
 ## TeX 
 
