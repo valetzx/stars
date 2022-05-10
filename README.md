@@ -76,7 +76,7 @@
 
 ## Shell 
 
-- [valetzx/typechonreplit](https://github.com/valetzx/typechonreplit) - 在Replit部署Typecho博客
+- [valetzx/typechonreplit](https://github.com/valetzx/typechonreplit) - 在Replit部署typecho博客并添加butterfly主题
 - [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 使用githubaction在flyio部署alist
 - [valetzx/nodeunblockreplit](https://github.com/valetzx/nodeunblockreplit) - 在Replit部署 https://github.com/nfriedly/node-unblocker
 - [valetzx/onedrivereplindex](https://github.com/valetzx/onedrivereplindex) - 在Replit部署 onedrive-vercel-index
@@ -88,6 +88,8 @@
 
 ## Smarty 
 
+- [valetzx/kanboardonreplit](https://github.com/valetzx/kanboardonreplit) - 在Replit部署kanboard并使用postgresql数据库
+- [valetzx/typechonreplitwithpg](https://github.com/valetzx/typechonreplitwithpg) - 在Replit部署typecho并使用postgresql数据库
 - [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 在 Replit 部署 nodebb论坛+PostgreSQL数据库
 
 ## TeX 
