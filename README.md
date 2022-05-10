@@ -61,6 +61,7 @@
 
 ## PHP 
 
+- [wehaox/Typecho-Butterfly](https://github.com/wehaox/Typecho-Butterfly) - Hexo主题Butterfly的Typecho移植版———开源不易，帮忙点个star，谢谢了🌹
 - [pigeonpig/kod](https://github.com/pigeonpig/kod) - 理论上能在Replit跑的可道云
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
 
@@ -75,6 +76,7 @@
 
 ## Shell 
 
+- [valetzx/typechonreplit](https://github.com/valetzx/typechonreplit) - 在Replit部署Typecho博客
 - [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 使用githubaction在flyio部署alist
 - [valetzx/nodeunblockreplit](https://github.com/valetzx/nodeunblockreplit) - 在Replit部署 https://github.com/nfriedly/node-unblocker
 - [valetzx/onedrivereplindex](https://github.com/valetzx/onedrivereplindex) - 在Replit部署 onedrive-vercel-index
