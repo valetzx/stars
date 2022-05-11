@@ -90,7 +90,7 @@
 
 - [valetzx/kanboardonreplit](https://github.com/valetzx/kanboardonreplit) - 在Replit部署kanboard并使用postgresql数据库
 - [valetzx/typechonreplitwithpg](https://github.com/valetzx/typechonreplitwithpg) - 在Replit部署typecho并使用postgresql数据库
-- [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 在 Replit 部署 nodebb论坛+PostgreSQL数据库
+- [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 在 Replit 部署 nodebb论坛并使用PostgreSQL数据库
 
 ## TeX 
 
