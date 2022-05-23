@@ -40,6 +40,7 @@
 
 ## JavaScript 
 
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [blueedgetechno/androidInReact](https://github.com/blueedgetechno/androidInReact) - Android in React 📱🌈⚡
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
@@ -69,6 +70,7 @@
 
 ## Python 
 
+- [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 - [zkeq/Python-WebSite-Screenshot](https://github.com/zkeq/Python-WebSite-Screenshot) - 一款支持截图中文网站的 Actions 截图工具。
 - [valetzx/uptimekumaonreplit](https://github.com/valetzx/uptimekumaonreplit) - 在Replit自建uptime-kuma监控
 - [zkeq/Busuanzi_backend_self](https://github.com/zkeq/Busuanzi_backend_self) - Backend Substitutes For Busuanzi.
