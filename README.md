@@ -102,6 +102,7 @@
 
 ## TypeScript 
 
+- [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Teahouse-Studios/tinter](https://github.com/Teahouse-Studios/tinter) - 女生自用你画我猜多人游戏服务
 - [pigeonpig/onedrive-image-hosting](https://github.com/pigeonpig/onedrive-image-hosting) - 什么onedrive图片直链？
