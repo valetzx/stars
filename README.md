@@ -21,6 +21,9 @@
 
 ## Dockerfile 
 
+- [nkpro2000sr/Chrome-VNC](https://github.com/nkpro2000sr/Chrome-VNC) - Chromium with VNC in Docker image ( on Alpine ).
+- [Gxuezha/railway-docker](https://github.com/Gxuezha/railway-docker) - docker vnc
+- [tzuhsiao/baidunetdisk-docker](https://github.com/tzuhsiao/baidunetdisk-docker) - Docker化的百度云盘官方Linux客户端+VNC服务器 (Dockerized Baidu Netdisk official Linux client with VNC server)
 - [f-ever/chrome-novnc](https://github.com/f-ever/chrome-novnc) - Chrome With noVNC &lt;admin@f-ever.cn&gt;
 - [sykuang/docker-wine-x11-novnc](https://github.com/sykuang/docker-wine-x11-novnc) - Running Windows application on synology Nas (DS 916+)
 - [accetto/ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce) - Retired. Headless Ubuntu/Xfce containers with VNC/noVNC (Generation 1)
@@ -41,6 +44,7 @@
 
 ## Java 
 
+- [CCarbon1024/shulker-dupe-forge](https://github.com/CCarbon1024/shulker-dupe-forge) - A client-side forge mod that makes it easier to perform the shulker dupe.
 - [Dimples-1337/WebSocketToSocket](https://github.com/Dimples-1337/WebSocketToSocket) - Who want play minecraft in browser?
 - [fr1kin/ForgeHax](https://github.com/fr1kin/ForgeHax) - A Minecraft cheat that runs as a Forge mod
 - [Earthcomputer/multiconnect](https://github.com/Earthcomputer/multiconnect) - A mod to connect to multiple Minecraft server versions
@@ -92,6 +96,9 @@
 
 ## Shell 
 
+- [Soneji/docker-chromium](https://github.com/Soneji/docker-chromium) - Docker container with Chromium desktop and a Web VNC client allowing you to run Chromium on any server you have
+- [taylorcoffelt/macos-docker](https://github.com/taylorcoffelt/macos-docker) - Runs a macOS image on QEMU in a docker container, with VNC, SSH and SPICE access
+- [sfoxdev/docker-chrome-vnc-rdp](https://github.com/sfoxdev/docker-chrome-vnc-rdp) - Google Chrome via VNC or RDP
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [valetzx/typechonreplit](https://github.com/valetzx/typechonreplit) - 在Replit部署typecho博客并添加butterfly主题
 - [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 使用githubaction在flyio部署alist
