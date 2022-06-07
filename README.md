@@ -21,6 +21,9 @@
 
 ## Dockerfile 
 
+- [f-ever/chrome-novnc](https://github.com/f-ever/chrome-novnc) - Chrome With noVNC &lt;admin@f-ever.cn&gt;
+- [sykuang/docker-wine-x11-novnc](https://github.com/sykuang/docker-wine-x11-novnc) - Running Windows application on synology Nas (DS 916+)
+- [accetto/ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce) - Retired. Headless Ubuntu/Xfce containers with VNC/noVNC (Generation 1)
 - [pigeonpig/gatus-on-heroku](https://github.com/pigeonpig/gatus-on-heroku) - deploy gatus with heroku
 
 ## EJS 
@@ -89,6 +92,7 @@
 
 ## Shell 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [valetzx/typechonreplit](https://github.com/valetzx/typechonreplit) - 在Replit部署typecho博客并添加butterfly主题
 - [pigeonpig/alistonfly.io](https://github.com/pigeonpig/alistonfly.io) - 使用githubaction在flyio部署alist
 - [valetzx/nodeunblockreplit](https://github.com/valetzx/nodeunblockreplit) - 在Replit部署 https://github.com/nfriedly/node-unblocker
