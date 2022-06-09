@@ -21,6 +21,10 @@
 
 ## Dockerfile 
 
+- [m1k1o/osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
+- [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
+- [m1k1o/win10-in-docker](https://github.com/m1k1o/win10-in-docker) - Run WIN10 inside Docker, connect via VNC - lightweight repository.
+- [gotoeasy/docker-ubuntu-desktop](https://github.com/gotoeasy/docker-ubuntu-desktop) - 在ubuntu系统的基础上，安装中文桌面环境及输入法，支持VNC远程连接，可以相互复制粘贴文本
 - [nkpro2000sr/Chrome-VNC](https://github.com/nkpro2000sr/Chrome-VNC) - Chromium with VNC in Docker image ( on Alpine ).
 - [Gxuezha/railway-docker](https://github.com/Gxuezha/railway-docker) - docker vnc
 - [tzuhsiao/baidunetdisk-docker](https://github.com/tzuhsiao/baidunetdisk-docker) - Docker化的百度云盘官方Linux客户端+VNC服务器 (Dockerized Baidu Netdisk official Linux client with VNC server)
@@ -74,6 +78,7 @@
 
 ## Others 
 
+- [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 
@@ -96,6 +101,8 @@
 
 ## Shell 
 
+- [DrSnowbird/vscode-docker-vnc](https://github.com/DrSnowbird/vscode-docker-vnc) - Visual Studio Code IDE Docker Container in VNC/NoVNC
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Soneji/docker-chromium](https://github.com/Soneji/docker-chromium) - Docker container with Chromium desktop and a Web VNC client allowing you to run Chromium on any server you have
 - [taylorcoffelt/macos-docker](https://github.com/taylorcoffelt/macos-docker) - Runs a macOS image on QEMU in a docker container, with VNC, SSH and SPICE access
 - [sfoxdev/docker-chrome-vnc-rdp](https://github.com/sfoxdev/docker-chrome-vnc-rdp) - Google Chrome via VNC or RDP
