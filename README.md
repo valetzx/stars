@@ -12,6 +12,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [TeX](#tex)
@@ -56,12 +57,12 @@
 
 ## JavaScript 
 
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [blueedgetechno/androidInReact](https://github.com/blueedgetechno/androidInReact) - Android in React 📱🌈⚡
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
-- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [valetzx/hexoonreplit](https://github.com/valetzx/hexoonreplit) - Build hexo on Replit
 - [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
 - [AlexiaChen/AlexiaChen.github.io](https://github.com/AlexiaChen/AlexiaChen.github.io) - My Blog https://github.com/AlexiaChen/AlexiaChen.github.io/issues
@@ -80,6 +81,7 @@
 
 - [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 
 ## PHP 
@@ -90,6 +92,7 @@
 
 ## Python 
 
+- [Jamesits/terminal-duplicator](https://github.com/Jamesits/terminal-duplicator) - Record your terminal and share it with the world on a web page.
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
 - [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 - [zkeq/Python-WebSite-Screenshot](https://github.com/zkeq/Python-WebSite-Screenshot) - 一款支持截图中文网站的 Actions 截图工具。
@@ -98,6 +101,10 @@
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [747929791/MajsoulAI](https://github.com/747929791/MajsoulAI) - 以JianYangAI作后端，进行在线雀魂对局
+
+## Rust 
+
+- [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - B站命令行投稿工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
 
 ## Shell 
 
