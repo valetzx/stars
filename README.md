@@ -108,6 +108,7 @@
 
 ## Shell 
 
+- [rwv/docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon) - 🐳 A docker image to create ZeroTier moon in one step.
 - [DrSnowbird/vscode-docker-vnc](https://github.com/DrSnowbird/vscode-docker-vnc) - Visual Studio Code IDE Docker Container in VNC/NoVNC
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Soneji/docker-chromium](https://github.com/Soneji/docker-chromium) - Docker container with Chromium desktop and a Web VNC client allowing you to run Chromium on any server you have
