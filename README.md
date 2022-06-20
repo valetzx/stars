@@ -11,6 +11,7 @@
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -49,6 +50,8 @@
 
 ## Java 
 
+- [ZekerZhayard/OptiForge](https://github.com/ZekerZhayard/OptiForge) - Make OptiFine be compatible with Forge.
+- [Mikarific/chest-boat-dupe](https://github.com/Mikarific/chest-boat-dupe) - 
 - [CCarbon1024/shulker-dupe-forge](https://github.com/CCarbon1024/shulker-dupe-forge) - A client-side forge mod that makes it easier to perform the shulker dupe.
 - [Dimples-1337/WebSocketToSocket](https://github.com/Dimples-1337/WebSocketToSocket) - Who want play minecraft in browser?
 - [fr1kin/ForgeHax](https://github.com/fr1kin/ForgeHax) - A Minecraft cheat that runs as a Forge mod
@@ -89,6 +92,10 @@
 - [wehaox/Typecho-Butterfly](https://github.com/wehaox/Typecho-Butterfly) - Hexo主题Butterfly的Typecho移植版———开源不易，帮忙点个star，谢谢了🌹
 - [pigeonpig/kod](https://github.com/pigeonpig/kod) - 理论上能在Replit跑的可道云
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
+
+## PowerShell 
+
+- [TeamAOF/All-of-Fabric-6](https://github.com/TeamAOF/All-of-Fabric-6) - Modpack containing the latest & best of Fabric on 1,19
 
 ## Python 
 
