@@ -82,6 +82,7 @@
 
 ## Others 
 
+- [kmille36/Windows-11-VPS](https://github.com/kmille36/Windows-11-VPS) - 😎😘 Free Windows 11 VPS for 4 Hours ! Easy Method!
 - [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
@@ -115,6 +116,8 @@
 
 ## Shell 
 
+- [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
+- [guleonseon/goorm-auto](https://github.com/guleonseon/goorm-auto) - 
 - [rwv/docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon) - 🐳 A docker image to create ZeroTier moon in one step.
 - [DrSnowbird/vscode-docker-vnc](https://github.com/DrSnowbird/vscode-docker-vnc) - Visual Studio Code IDE Docker Container in VNC/NoVNC
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
