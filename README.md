@@ -50,6 +50,7 @@
 
 ## Java 
 
+- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable
 - [ZekerZhayard/OptiForge](https://github.com/ZekerZhayard/OptiForge) - Make OptiFine be compatible with Forge.
 - [Mikarific/chest-boat-dupe](https://github.com/Mikarific/chest-boat-dupe) - 
 - [CCarbon1024/shulker-dupe-forge](https://github.com/CCarbon1024/shulker-dupe-forge) - A client-side forge mod that makes it easier to perform the shulker dupe.
@@ -60,6 +61,7 @@
 
 ## JavaScript 
 
+- [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 网站截图 API | Website Screenshot API
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
