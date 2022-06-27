@@ -84,7 +84,7 @@
 
 ## Others 
 
-- [kmille36/Windows-11-VPS](https://github.com/kmille36/Windows-11-VPS) - 😎😘 Free Windows 11 VPS for 4 Hours ! Easy Method!
+- [kmille36/Windows-11-VPS](https://github.com/kmille36/Windows-11-VPS) - 😎😘 Free Windows 11 VPS for 1 Hour ! Easy Method!
 - [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
