@@ -61,6 +61,7 @@
 
 ## JavaScript 
 
+- [Lete114/CardLink](https://github.com/Lete114/CardLink) - 为页面上的超链接生成卡片式链接 | Generate card-based links for hyperlinks on the page
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 网站截图 API | Website Screenshot API
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
