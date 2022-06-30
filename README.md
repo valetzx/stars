@@ -2,6 +2,7 @@
 ### 本仓库意备份Replit白嫖收藏，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！如果您有合适的仓库也可以发送issue或PR新文件夹 
  
 ## Contents
+- [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Go](#go)
@@ -19,6 +20,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [ZenScript](#zenscript)
+
+## CSS 
+
+- [arect/onedrive_blog](https://github.com/arect/onedrive_blog) - OneDrive/Blog 以OneDrive为储存的博客“引擎”
 
 ## Dockerfile 
 
