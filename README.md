@@ -120,6 +120,7 @@
 
 ## Shell 
 
+- [valetzx/firefoxonreplit](https://github.com/valetzx/firefoxonreplit) - novnc browser with replit
 - [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
 - [guleonseon/goorm-auto](https://github.com/guleonseon/goorm-auto) - 
 - [rwv/docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon) - 🐳 A docker image to create ZeroTier moon in one step.
