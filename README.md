@@ -6,6 +6,7 @@
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -16,6 +17,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Stylus](#stylus)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -46,6 +48,10 @@
 ## Go 
 
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+
+## HCL 
+
+- [geekzter/azure-minecraft-docker](https://github.com/geekzter/azure-minecraft-docker) - Minecraft Server powered by Docker & Azure Container Instance
 
 ## HTML 
 
@@ -104,6 +110,7 @@
 
 ## Python 
 
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [Jamesits/terminal-duplicator](https://github.com/Jamesits/terminal-duplicator) - Record your terminal and share it with the world on a web page.
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
 - [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
@@ -145,6 +152,10 @@
 - [valetzx/kanboardonreplit](https://github.com/valetzx/kanboardonreplit) - 在Replit部署kanboard并使用postgresql数据库
 - [valetzx/typechonreplitwithpg](https://github.com/valetzx/typechonreplitwithpg) - 在Replit部署typecho并使用postgresql数据库
 - [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 在 Replit 部署 nodebb论坛并使用PostgreSQL数据库
+
+## Stylus 
+
+- [Eurkon/hexo-theme-butterfly-eurkon](https://github.com/Eurkon/hexo-theme-butterfly-eurkon) - hexo-theme-butterfly魔改
 
 ## TeX 
 
