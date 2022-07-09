@@ -25,6 +25,7 @@
 
 ## CSS 
 
+- [valetzx/newsonreplit](https://github.com/valetzx/newsonreplit) - 每日早报 部署在replit
 - [arect/onedrive_blog](https://github.com/arect/onedrive_blog) - OneDrive/Blog 以OneDrive为储存的博客“引擎”
 
 ## Dockerfile 
@@ -71,6 +72,7 @@
 
 ## JavaScript 
 
+- [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
 - [Lete114/CardLink](https://github.com/Lete114/CardLink) - 为页面上的超链接生成卡片式链接 | Generate card-based links for hyperlinks on the page
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 网站截图 API | Website Screenshot API
 - [TeamAOF/All-of-Fabric-6](https://github.com/TeamAOF/All-of-Fabric-6) - Modpack containing the latest & best of Fabric on 1,19
