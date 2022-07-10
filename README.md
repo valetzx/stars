@@ -2,6 +2,7 @@
 ### 本仓库意备份Replit白嫖收藏，可以在 https://github.com/stars/valetzx/lists/replit 获取一键部署的仓库，记得Star！如果您有合适的仓库也可以发送issue或PR新文件夹 
  
 ## Contents
+- [C#](#c#)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
@@ -23,9 +24,13 @@
 - [Vue](#vue)
 - [ZenScript](#zenscript)
 
+## C# # 
+
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+
 ## CSS 
 
-- [valetzx/newsonreplit](https://github.com/valetzx/newsonreplit) - 每日早报 部署在replit
+- [valetzx/newsonreplit](https://github.com/valetzx/newsonreplit) - 每日早报 但是部署在replit
 - [arect/onedrive_blog](https://github.com/arect/onedrive_blog) - OneDrive/Blog 以OneDrive为储存的博客“引擎”
 
 ## Dockerfile 
@@ -72,6 +77,7 @@
 
 ## JavaScript 
 
+- [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Watch video together on any platform / 一起看视频，兼容所有平台
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
 - [Lete114/CardLink](https://github.com/Lete114/CardLink) - 为页面上的超链接生成卡片式链接 | Generate card-based links for hyperlinks on the page
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 网站截图 API | Website Screenshot API
@@ -98,6 +104,7 @@
 
 ## Others 
 
+- [Roxedus/docker-TS-DnsServer](https://github.com/Roxedus/docker-TS-DnsServer) - container for TechnitiumSoftware/DnsServer
 - [kmille36/Windows-11-VPS](https://github.com/kmille36/Windows-11-VPS) - 😎😘 Free Windows 11 VPS for 1 Hour ! Easy Method!
 - [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
