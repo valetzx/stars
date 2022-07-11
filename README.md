@@ -26,6 +26,7 @@
 
 ## C# # 
 
+- [BakaXL-Launcher/BakaXL.Core](https://github.com/BakaXL-Launcher/BakaXL.Core) - BakaXL 核心
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 
 ## CSS 
