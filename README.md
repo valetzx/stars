@@ -3,6 +3,7 @@
  
 ## Contents
 - [C#](#c#)
+- [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
@@ -26,8 +27,13 @@
 
 ## C# # 
 
+- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our version
 - [BakaXL-Launcher/BakaXL.Core](https://github.com/BakaXL-Launcher/BakaXL.Core) - BakaXL 核心
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+
+## C++ 
+
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
 ## CSS 
 
@@ -36,6 +42,7 @@
 
 ## Dockerfile 
 
+- [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [m1k1o/osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
 - [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
 - [m1k1o/win10-in-docker](https://github.com/m1k1o/win10-in-docker) - Run WIN10 inside Docker, connect via VNC - lightweight repository.
@@ -67,6 +74,8 @@
 
 ## Java 
 
+- [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
+- [maxsupermanhd/meteor-villager-roller](https://github.com/maxsupermanhd/meteor-villager-roller) - Module for Meteor Client that continiously breaks and places work block of villager until it has desired trade
 - [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable
 - [ZekerZhayard/OptiForge](https://github.com/ZekerZhayard/OptiForge) - Make OptiFine be compatible with Forge.
 - [Mikarific/chest-boat-dupe](https://github.com/Mikarific/chest-boat-dupe) - 
