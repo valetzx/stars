@@ -61,7 +61,7 @@
 
 ## Go 
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 
 ## HCL 
@@ -147,6 +147,7 @@
 
 ## Shell 
 
+- [65cc/spacest](https://github.com/65cc/spacest) - 
 - [valetzx/firefoxonreplit](https://github.com/valetzx/firefoxonreplit) - novnc browser with replit
 - [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
 - [guleonseon/goorm-auto](https://github.com/guleonseon/goorm-auto) - 
@@ -183,6 +184,7 @@
 
 ## TypeScript 
 
+- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Teahouse-Studios/tinter](https://github.com/Teahouse-Studios/tinter) - 女生自用你画我猜多人游戏服务
@@ -191,6 +193,8 @@
 
 ## Vue 
 
+- [misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [diaseu/weekly-task-vue](https://github.com/diaseu/weekly-task-vue) - Weekly Task App made in Vue.js
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
