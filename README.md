@@ -184,6 +184,7 @@
 
 ## TypeScript 
 
+- [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -193,6 +194,7 @@
 
 ## Vue 
 
+- [lyricat/mornin.fm](https://github.com/lyricat/mornin.fm) - 
 - [misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [diaseu/weekly-task-vue](https://github.com/diaseu/weekly-task-vue) - Weekly Task App made in Vue.js
