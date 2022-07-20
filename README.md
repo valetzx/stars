@@ -197,6 +197,7 @@
 
 ## Vue 
 
+- [Rr210/blazeB2](https://github.com/Rr210/blazeB2) - 📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具
 - [lyricat/mornin.fm](https://github.com/lyricat/mornin.fm) - 
 - [misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
