@@ -75,6 +75,7 @@
 
 ## Java 
 
+- [AntiCope/meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client that features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 - [imaegoo/idea-serverless](https://github.com/imaegoo/idea-serverless) - WIP: 基于阿里云函数计算部署的 IntelliJ IDEA Web IDE
 - [Nekiplay/MeteorPlus](https://github.com/Nekiplay/MeteorPlus) - An addon for Meteor client that adds many blatant features.
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
