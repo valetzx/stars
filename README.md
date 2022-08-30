@@ -158,7 +158,6 @@
 
 ## Shell 
 
-- [65cc/spacest](https://github.com/65cc/spacest) - 
 - [valetzx/firefoxonreplit](https://github.com/valetzx/firefoxonreplit) - novnc browser with replit
 - [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
 - [guleonseon/goorm-auto](https://github.com/guleonseon/goorm-auto) - 
