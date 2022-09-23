@@ -158,7 +158,7 @@
 ## Rust 
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - B站命令行投稿工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
+- [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
 
 ## Shell 
 
