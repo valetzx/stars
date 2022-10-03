@@ -212,7 +212,7 @@
 - [arect/o-blog](https://github.com/arect/o-blog) - 
 - [Rr210/blazeB2](https://github.com/Rr210/blazeB2) - 📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具
 - [lyricat/mornin.fm](https://github.com/lyricat/mornin.fm) - 
-- [misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router
+- [misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue) - Wails template based on Vue ecology
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [diaseu/weekly-task-vue](https://github.com/diaseu/weekly-task-vue) - Weekly Task App made in Vue.js
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
