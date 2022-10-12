@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [imsyy/home](https://github.com/imsyy/home) - 我的个人主页，个人主页源码，主页模板，homepage
 - [valetzx/newsonreplit](https://github.com/valetzx/newsonreplit) - 每日早报 但是部署在replit
 - [arect/onedrive_blog](https://github.com/arect/onedrive_blog) - OneDrive/Blog 以OneDrive为储存的博客“引擎”
 
@@ -125,6 +126,7 @@
 
 ## Others 
 
+- [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
 - [IdreesInc/Minecraft-Font](https://github.com/IdreesInc/Minecraft-Font) - The font from Minecraft in the palm of your hand
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our version
