@@ -107,7 +107,7 @@
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
 - [Lete114/CardLink](https://github.com/Lete114/CardLink) - 为页面上的超链接生成卡片式链接 | Generate card-based links for hyperlinks on the page
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 📸网站截图 API | Website Screenshot API
-- [TeamAOF/All-of-Fabric-6](https://github.com/TeamAOF/All-of-Fabric-6) - Modpack containing the latest & best of Fabric on 1,19
+- [TeamAOF/All-of-Fabric-6](https://github.com/TeamAOF/All-of-Fabric-6) - Modpack containing the latest & best of Fabric on 1.19
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
