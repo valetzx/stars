@@ -88,7 +88,7 @@
 - [Nekiplay/MeteorPlus](https://github.com/Nekiplay/MeteorPlus) - An addon for Meteor client that adds many blatant features.
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
 - [maxsupermanhd/meteor-villager-roller](https://github.com/maxsupermanhd/meteor-villager-roller) - Module for Meteor Client that continiously breaks and places work block of villager until it has desired trade
-- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable
+- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
 - [ZekerZhayard/OptiForge](https://github.com/ZekerZhayard/OptiForge) - Make OptiFine be compatible with Forge.
 - [Mikarific/chest-boat-dupe](https://github.com/Mikarific/chest-boat-dupe) - 
 - [CCarbon1024/shulker-dupe-forge](https://github.com/CCarbon1024/shulker-dupe-forge) - A client-side forge mod that makes it easier to perform the shulker dupe.
