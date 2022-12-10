@@ -37,7 +37,6 @@
 
 ## CSS 
 
-- [imsyy/home](https://github.com/imsyy/home) - 我的个人主页，个人主页源码，主页模板，homepage
 - [valetzx/newsonreplit](https://github.com/valetzx/newsonreplit) - 每日早报 但是部署在replit
 
 ## Dockerfile 
@@ -75,6 +74,7 @@
 ## HTML 
 
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。
+- [imsyy/home](https://github.com/imsyy/home) - 我的个人主页，个人主页源码，主页模板，homepage
 - [valetzx/musiconreplit](https://github.com/valetzx/musiconreplit) - 在 Replit 部署 YesPlayMusic 网页端
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
 
@@ -100,6 +100,7 @@
 
 ## JavaScript 
 
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
 - [tampermonkeyStorage/Self-use](https://github.com/tampermonkeyStorage/Self-use) - 网盘云盘资源搜索脚本 支持百度 蓝奏 天翼 迅雷 阿里
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
