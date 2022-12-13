@@ -173,6 +173,7 @@
 
 ## Shell 
 
+- [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) - 微信开发者工具 纯Linux版 微信小程序
 - [valetzx/firefoxonreplit](https://github.com/valetzx/firefoxonreplit) - novnc browser with replit
 - [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
 - [guleonseon/goorm-auto](https://github.com/guleonseon/goorm-auto) - 
