@@ -17,6 +17,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Stylus](#stylus)
@@ -171,6 +172,10 @@
 - [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
+## SCSS 
+
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
+
 ## Shell 
 
 - [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) - 微信开发者工具 纯Linux版 微信小程序
@@ -210,7 +215,6 @@
 
 ## TypeScript 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 - [koishijs/novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
