@@ -133,6 +133,7 @@
 
 ## Others 
 
+- [KageDesu/AlphaNET](https://github.com/KageDesu/AlphaNET) - Multiplayer MV plugin
 - [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
 - [IdreesInc/Minecraft-Font](https://github.com/IdreesInc/Minecraft-Font) - The font from Minecraft in the palm of your hand
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our version
