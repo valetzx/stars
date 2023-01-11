@@ -123,7 +123,7 @@
 - [valetzx/vscodeonreplit](https://github.com/valetzx/vscodeonreplit) - 在Replit部署vscode-server
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
 - [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit) - hosting lavalink on replit has never been easier than before. just click on run then you’re done.
-- [LianjiaTech/ke-snap](https://github.com/LianjiaTech/ke-snap) - 网页截图
+- [LianjiaTech/Snap](https://github.com/LianjiaTech/Snap) - 网页截图
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 
