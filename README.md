@@ -29,6 +29,7 @@
 
 ## C# # 
 
+- [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长
 - [RainbowRoad1/CreateInChaos](https://github.com/RainbowRoad1/CreateInChaos) - 一款由 Unity 制作的游戏，融合了俄罗斯方块和我的世界的元素。
 - [BakaXL-Launcher/BakaXL.Core](https://github.com/BakaXL-Launcher/BakaXL.Core) - BakaXL 核心
@@ -184,6 +185,7 @@
 
 ## Shell 
 
+- [RayWangQvQ/Ray.Notes.Xui](https://github.com/RayWangQvQ/Ray.Notes.Xui) - x-ui，基于docker镜像部署
 - [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) - 微信开发者工具 纯Linux版 微信小程序
 - [valetzx/firefoxonreplit](https://github.com/valetzx/firefoxonreplit) - novnc browser with replit
 - [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
