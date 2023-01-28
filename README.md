@@ -56,7 +56,7 @@
 - [tzuhsiao/baidunetdisk-docker](https://github.com/tzuhsiao/baidunetdisk-docker) - Docker化的百度云盘官方Linux客户端+VNC服务器 (Dockerized Baidu Netdisk official Linux client with VNC server)
 - [f-ever/chrome-novnc](https://github.com/f-ever/chrome-novnc) - Chrome With noVNC &lt;admin@f-ever.cn&gt;
 - [sykuang/docker-wine-x11-novnc](https://github.com/sykuang/docker-wine-x11-novnc) - Running Windows application on synology Nas (DS 916+)
-- [accetto/ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce) - Headless Ubuntu/Xfce containers with VNC/noVNC (Generation 1)
+- [accetto/ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce) - Headless Ubuntu/Xfce containers with VNC/noVNC (G1v2)
 - [pigeonpig/gatus-on-heroku](https://github.com/pigeonpig/gatus-on-heroku) - deploy gatus with heroku
 
 ## EJS 
