@@ -138,7 +138,7 @@
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [KageDesu/AlphaNET](https://github.com/KageDesu/AlphaNET) - Multiplayer MV plugin
 - [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
-- [IdreesInc/Minecraft-Font](https://github.com/IdreesInc/Minecraft-Font) - The font from Minecraft in the palm of your hand
+- [IdreesInc/Minecraft-Font](https://github.com/IdreesInc/Minecraft-Font) - A rendition of the font used in Minecraft
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our version
 - [Roxedus/docker-TS-DnsServer](https://github.com/Roxedus/docker-TS-DnsServer) - container for TechnitiumSoftware/DnsServer
 - [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
