@@ -10,6 +10,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Nix](#nix)
@@ -80,6 +81,10 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [valetzx/musiconreplit](https://github.com/valetzx/musiconreplit) - 在 Replit 部署 YesPlayMusic 网页端
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+
+## JSON 
+
+- [Kichura/Minecraft_ARM](https://github.com/Kichura/Minecraft_ARM) - Minecraft Java Edition with ARM support.
 
 ## Java 
 
