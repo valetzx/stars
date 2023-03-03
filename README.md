@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [zanjie1999/tcp-over-websocket](https://github.com/zanjie1999/tcp-over-websocket) - 将TCP放到WebSocket中传输（就能走CDN）基于ws的内网穿透 隧道代理 tcp2ws  全平台0依赖
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [CoolLiuzw/notionSync](https://github.com/CoolLiuzw/notionSync) - Mircosoft ToDo sync notion
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -102,7 +103,6 @@
 - [ZekerZhayard/OptiForge](https://github.com/ZekerZhayard/OptiForge) - Make OptiFine be compatible with Forge.
 - [Mikarific/chest-boat-dupe](https://github.com/Mikarific/chest-boat-dupe) - 
 - [CCarbon1024/shulker-dupe-forge](https://github.com/CCarbon1024/shulker-dupe-forge) - A client-side forge mod that makes it easier to perform the shulker dupe.
-- [Dimples-1337/WebSocketToSocket](https://github.com/Dimples-1337/WebSocketToSocket) - Who want play minecraft in browser?
 - [fr1kin/ForgeHax](https://github.com/fr1kin/ForgeHax) - A Minecraft cheat that runs as a Forge mod
 - [Earthcomputer/multiconnect](https://github.com/Earthcomputer/multiconnect) - A mod to connect to multiple Minecraft server versions
 - [LucunJi/ExtraPlayerRenderer](https://github.com/LucunJi/ExtraPlayerRenderer) - render player on the bottom left corner
