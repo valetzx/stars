@@ -41,6 +41,7 @@
 
 ## CSS 
 
+- [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [valetzx/newsonreplit](https://github.com/valetzx/newsonreplit) - 每日早报 但是部署在replit
 
 ## Dockerfile 
@@ -89,6 +90,7 @@
 
 ## Java 
 
+- [Earthcomputer/SSSearch](https://github.com/Earthcomputer/SSSearch) - Minecraft Storage System Search
 - [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A simple Meteor addon focused on giving users more customization options. Made in honor of Number81.
 - [LuZWCHA/DynTranslation](https://github.com/LuZWCHA/DynTranslation) - 
 - [V1li/hwid](https://github.com/V1li/hwid) - Simple hwid lock with discord webhook for mc clients.
