@@ -191,6 +191,7 @@
 
 ## Shell 
 
+- [valetzx/Replit-Firefox-NoVNC](https://github.com/valetzx/Replit-Firefox-NoVNC) - 
 - [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以Xray或V2Ray（v4版）、NaiveProxy、Hysteria等打造常用科学上网的优化配置及最优组合示例，且提供集成必要插件的Caddy（v2版）程序，分享给大家食用及自己备份。
 - [RayWangQvQ/Ray.Notes.Xui](https://github.com/RayWangQvQ/Ray.Notes.Xui) - x-ui，基于docker镜像部署
 - [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) - 微信开发者工具 纯Linux版 微信小程序
@@ -243,6 +244,7 @@
 
 ## Vue 
 
+- [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 oicq-http 的非官方网页版 QQ 客户端，使用 Vue 重制的全新版本。
 - [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
