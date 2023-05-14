@@ -169,7 +169,7 @@
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [Jamesits/terminal-duplicator](https://github.com/Jamesits/terminal-duplicator) - Record your terminal and share it with the world on a web page.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 - [zkeq/Python-WebSite-Screenshot](https://github.com/zkeq/Python-WebSite-Screenshot) - 一款支持截图中文网站的 Actions 截图工具。
 - [valetzx/uptimekumaonreplit](https://github.com/valetzx/uptimekumaonreplit) - 在Replit自建uptime-kuma监控
