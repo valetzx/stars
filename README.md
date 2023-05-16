@@ -67,7 +67,7 @@
 
 ## Go 
 
-- [zanjie1999/tcp-over-websocket](https://github.com/zanjie1999/tcp-over-websocket) - 将TCP放到WebSocket中传输（就能走CDN）基于ws的内网穿透 隧道代理 tcp2ws  全平台0依赖
+- [zanjie1999/tcp-over-websocket](https://github.com/zanjie1999/tcp-over-websocket) - 将TCP/UDP放到WebSocket中传输（就能走CDN）基于ws的内网穿透 隧道代理 tcp2ws  全平台0依赖
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [CoolLiuzw/notionSync](https://github.com/CoolLiuzw/notionSync) - Mircosoft ToDo sync notion
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
