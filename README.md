@@ -81,6 +81,7 @@
 
 - [valetzx/halo2-on-replit](https://github.com/valetzx/halo2-on-replit) - 将halo2博客部署在replit平台
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [AlexiaChen/AlexiaChen.github.io](https://github.com/AlexiaChen/AlexiaChen.github.io) - My Blog https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 - [valetzx/musiconreplit](https://github.com/valetzx/musiconreplit) - 在 Replit 部署 YesPlayMusic 网页端
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
 
@@ -126,7 +127,6 @@
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [valetzx/hexoonreplit](https://github.com/valetzx/hexoonreplit) - Build hexo on Replit
 - [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
-- [AlexiaChen/AlexiaChen.github.io](https://github.com/AlexiaChen/AlexiaChen.github.io) - My Blog https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 - [valetzx/vscodeonreplit](https://github.com/valetzx/vscodeonreplit) - 在Replit部署vscode-server
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
 - [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit) - hosting lavalink on replit has never been easier than before. just click on run then you’re done.
