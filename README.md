@@ -137,7 +137,7 @@
 
 ## Nix 
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [valetzx/githubactivitygraphonreplit](https://github.com/valetzx/githubactivitygraphonreplit) - 在 Replit 部署 github-readme-activity-graph
 
 ## Others 
