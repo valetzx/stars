@@ -13,6 +13,7 @@
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
@@ -133,6 +134,10 @@
 - [LianjiaTech/Snap](https://github.com/LianjiaTech/Snap) - 网页截图
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+
+## Makefile 
+
+- [ceclinux/Action_OpenWrt_Xiaomi_R4AGv2](https://github.com/ceclinux/Action_OpenWrt_Xiaomi_R4AGv2) - Xiaomi R4AGv2 Gigabit Router OpenWrt Breed Flash 小米路由器R4Av2千兆版 (使用于新版闪存芯片)
 
 ## Nix 
 
