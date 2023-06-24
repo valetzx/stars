@@ -38,6 +38,7 @@
 
 ## C++ 
 
+- [hasherezade/dll_injector](https://github.com/hasherezade/dll_injector) - A simple commandline injector using classic DLL injection
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
 ## CSS 
