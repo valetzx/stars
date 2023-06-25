@@ -159,6 +159,7 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+- [valetzx/cloudreveonreplit](https://github.com/valetzx/cloudreveonreplit) - 在Replit上自建cloudreve网盘
 
 ## PHP 
 
@@ -214,7 +215,6 @@
 - [valetzx/nodeunblockreplit](https://github.com/valetzx/nodeunblockreplit) - 在Replit部署 https://github.com/nfriedly/node-unblocker
 - [valetzx/onedrivereplindex](https://github.com/valetzx/onedrivereplindex) - 在Replit部署 onedrive-vercel-index
 - [chuyua/replit-artalk](https://github.com/chuyua/replit-artalk) - 在Replit自建artalk-go评论区后端
-- [valetzx/cloudreveonreplit](https://github.com/valetzx/cloudreveonreplit) - 在Replit上自建cloudreve网盘
 - [valetzx/mcserveronreplit](https://github.com/valetzx/mcserveronreplit) - 白嫖3G我的世界服务器
 - [valetzx/chatroomonreplit](https://github.com/valetzx/chatroomonreplit) - 在Replit部署匿名聊天室
 - [valetzx/alist-build-on-replit](https://github.com/valetzx/alist-build-on-replit) - 在Replit构建Alist网盘列表
