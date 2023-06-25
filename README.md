@@ -114,6 +114,7 @@
 
 ## JavaScript 
 
+- [mo-jinran/BetterQQNT](https://github.com/mo-jinran/BetterQQNT) - QQNT的插件加载器，轻量 · 简洁 · 开源
 - [zerotier/github-action](https://github.com/zerotier/github-action) - A Github Action for ZeroTier
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
 - [tampermonkeyStorage/Self-use](https://github.com/tampermonkeyStorage/Self-use) - 网盘云盘资源搜索脚本 支持百度 蓝奏 天翼 迅雷 阿里
