@@ -33,6 +33,7 @@
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [RainbowRoad1/CreateInChaos](https://github.com/RainbowRoad1/CreateInChaos) - 一款由 Unity 制作的游戏，融合了俄罗斯方块和我的世界的元素。
+- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our version
 - [BakaXL-Launcher/BakaXL.Core](https://github.com/BakaXL-Launcher/BakaXL.Core) - BakaXL 核心
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 
@@ -154,7 +155,6 @@
 - [KageDesu/AlphaNET](https://github.com/KageDesu/AlphaNET) - Multiplayer MV plugin
 - [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
 - [IdreesInc/Minecraft-Font](https://github.com/IdreesInc/Minecraft-Font) - A rendition of the font used in Minecraft
-- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our version
 - [Roxedus/docker-TS-DnsServer](https://github.com/Roxedus/docker-TS-DnsServer) - container for TechnitiumSoftware/DnsServer
 - [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
