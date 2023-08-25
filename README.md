@@ -29,7 +29,7 @@
 
 ## C# # 
 
-- [microsoft/devhome](https://github.com/microsoft/devhome) - Windows Dev Home Experience
+- [microsoft/devhome](https://github.com/microsoft/devhome) - Dev Home Experience
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [RainbowRoad1/CreateInChaos](https://github.com/RainbowRoad1/CreateInChaos) - 一款由 Unity 制作的游戏，融合了俄罗斯方块和我的世界的元素。
@@ -191,7 +191,7 @@
 
 ## Rust 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The fast and reliable Determinate Nix Installer, with over 500,000 installs.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
