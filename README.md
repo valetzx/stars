@@ -116,7 +116,7 @@
 ## JavaScript 
 
 - [Jake-Brady/VR-Art-Gallery](https://github.com/Jake-Brady/VR-Art-Gallery) - A react built VR application where users can upload and share their images in a 3D space.
-- [mo-jinran/LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
+- [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 - [zerotier/github-action](https://github.com/zerotier/github-action) - A Github Action for ZeroTier
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
 - [tampermonkeyStorage/Self-use](https://github.com/tampermonkeyStorage/Self-use) - 网盘云盘资源搜索脚本 支持百度 蓝奏 天翼 迅雷 阿里
