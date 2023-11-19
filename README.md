@@ -44,7 +44,6 @@
 
 ## CSS 
 
-- [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [valetzx/newsonreplit](https://github.com/valetzx/newsonreplit) - 每日早报 但是部署在replit
 
 ## Dockerfile 
