@@ -119,7 +119,7 @@
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 - [zerotier/github-action](https://github.com/zerotier/github-action) - A Github Action for ZeroTier
 - [Jimboom7/AlphaJong](https://github.com/Jimboom7/AlphaJong) - A Mahjong AI for Mahjong Soul
-- [tampermonkeyStorage/Self-use](https://github.com/tampermonkeyStorage/Self-use) - 网盘云盘资源搜索脚本 支持百度 蓝奏 天翼 迅雷 阿里 123pan 等
+- [tampermonkeyStorage/Self-use](https://github.com/tampermonkeyStorage/Self-use) - 网盘云盘脚本 资源搜索、视频播放、音频播放 支持百度 蓝奏 天翼 迅雷 阿里 夸克 123pan 等
 - [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
 - [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Browser Extension to Watch Videos Together on All Platforms / 一起看视频浏览器插件，兼容所有平台
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
