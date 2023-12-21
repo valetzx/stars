@@ -97,7 +97,7 @@
 - [Earthcomputer/SSSearch](https://github.com/Earthcomputer/SSSearch) - Minecraft Storage System Search
 - [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A simple Meteor addon focused on giving users more customization options. Made in honor of Number81.
 - [LuZWCHA/DynTranslation](https://github.com/LuZWCHA/DynTranslation) - 
-- [V1li/hwid](https://github.com/V1li/hwid) - Simple hwid lock with discord webhook for mc clients.
+- [vil/hwid](https://github.com/vil/hwid) - Simple hwid lock with discord webhook for mc clients.
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
 - [AntiCope/meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
