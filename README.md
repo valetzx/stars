@@ -94,6 +94,7 @@
 
 ## Java 
 
+- [Zergatul/cheatutils](https://github.com/Zergatul/cheatutils) - 
 - [Earthcomputer/SSSearch](https://github.com/Earthcomputer/SSSearch) - Minecraft Storage System Search
 - [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A simple Meteor addon focused on giving users more customization options. Made in honor of Number81.
 - [LuZWCHA/DynTranslation](https://github.com/LuZWCHA/DynTranslation) - 
