@@ -81,7 +81,6 @@
 ## HTML 
 
 - [valetzx/halo2-on-replit](https://github.com/valetzx/halo2-on-replit) - 将halo2博客部署在replit平台
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
 - [AlexiaChen/AlexiaChen.github.io](https://github.com/AlexiaChen/AlexiaChen.github.io) - My Blog https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 - [valetzx/musiconreplit](https://github.com/valetzx/musiconreplit) - 在 Replit 部署 YesPlayMusic 网页端
@@ -239,6 +238,7 @@
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [koishijs/novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 📸 Website Screenshot API
