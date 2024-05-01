@@ -255,7 +255,7 @@
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-- [rr210/blazeB2](https://github.com/rr210/blazeB2) - 📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具
+- [rr210/blazeB2](https://github.com/rr210/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
 - [lyricat/mornin.fm](https://github.com/lyricat/mornin.fm) - 
 - [misitebao/wails-template-vue](https://github.com/misitebao/wails-template-vue) - Wails template based on Vue ecology
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
