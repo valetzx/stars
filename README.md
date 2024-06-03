@@ -33,7 +33,7 @@
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [RainbowRoad1/CreateInChaos](https://github.com/RainbowRoad1/CreateInChaos) - 一款由 Unity 制作的游戏，融合了俄罗斯方块和我的世界的元素。
-- [BakaXL-Launcher/BakaXL.Core](https://github.com/BakaXL-Launcher/BakaXL.Core) - BakaXL 核心
+- [BakaXL-Launcher/BakaXL-Deprecated-Core](https://github.com/BakaXL-Launcher/BakaXL-Deprecated-Core) - BakaXL 核心
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 
 ## C++ 
