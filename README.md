@@ -112,7 +112,7 @@
 - [CCarbon1024/shulker-dupe-forge](https://github.com/CCarbon1024/shulker-dupe-forge) - A client-side forge mod that makes it easier to perform the shulker dupe.
 - [fr1kin/ForgeHax](https://github.com/fr1kin/ForgeHax) - A Minecraft cheat that runs as a Forge mod
 - [Earthcomputer/multiconnect](https://github.com/Earthcomputer/multiconnect) - A mod to connect to multiple Minecraft server versions
-- [LucunJi/ExtraPlayerRenderer](https://github.com/LucunJi/ExtraPlayerRenderer) - render player on the bottom left corner
+- [LucunJi/ExtraPlayerRenderer](https://github.com/LucunJi/ExtraPlayerRenderer) - highly configurable paper doll mod
 
 ## JavaScript 
 
