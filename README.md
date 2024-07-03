@@ -158,7 +158,7 @@
 - [Roxedus/docker-TS-DnsServer](https://github.com/Roxedus/docker-TS-DnsServer) - container for TechnitiumSoftware/DnsServer
 - [cclient/ubuntu-vnc-xfce-chromium-g3](https://github.com/cclient/ubuntu-vnc-xfce-chromium-g3) - nas场景使用的vnc镜像，安装了百度云，迅雷，网易云音乐等软件，也可按同样的思路，扩展一个线上的轻办工/开发环境。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
+- [github-education-resources/GitHubGraduation-2022](https://github.com/github-education-resources/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [valetzx/cloudreveonreplit](https://github.com/valetzx/cloudreveonreplit) - 在Replit上自建cloudreve网盘
 
