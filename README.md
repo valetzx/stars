@@ -131,7 +131,6 @@
 - [blueedgetechno/androidInReact](https://github.com/blueedgetechno/androidInReact) - Android in React 📱🌈⚡
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [valetzx/hexoonreplit](https://github.com/valetzx/hexoonreplit) - Build hexo on Replit
-- [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
 - [valetzx/vscodeonreplit](https://github.com/valetzx/vscodeonreplit) - 在Replit部署vscode-server
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
 - [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit) - hosting lavalink on replit has never been easier than before. just click on run then you’re done.
@@ -243,6 +242,7 @@
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 📸 Website Screenshot API
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
+- [Tsuk1ko/cf-url-shortener](https://github.com/Tsuk1ko/cf-url-shortener) - A URL shorten service deployed Cloudflare Pages
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Teahouse-Studios/tinter](https://github.com/Teahouse-Studios/tinter) - 女生自用你画我猜多人游戏服务
 - [pigeonpig/onedrive-image-hosting](https://github.com/pigeonpig/onedrive-image-hosting) - 什么onedrive图片直链？
