@@ -70,7 +70,7 @@
 ## Go 
 
 - [zanjie1999/tcp-over-websocket](https://github.com/zanjie1999/tcp-over-websocket) - 将TCP/UDP放到WebSocket中传输（就能走CDN）基于ws的内网穿透 隧道代理 tcp2ws  全平台0依赖
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [CoolLiuzw/notionSync](https://github.com/CoolLiuzw/notionSync) - Mircosoft ToDo sync notion
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
