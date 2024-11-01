@@ -126,6 +126,7 @@
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
 - [Lete114/CardLink](https://github.com/Lete114/CardLink) - 为页面上的超链接生成卡片式链接 | Generate card-based links for hyperlinks on the page
 - [TeamAOF/All-of-Fabric-6](https://github.com/TeamAOF/All-of-Fabric-6) - Modpack containing the latest & best of Fabric on 1.19
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [blueedgetechno/androidInReact](https://github.com/blueedgetechno/androidInReact) - Android in React 📱🌈⚡
@@ -175,7 +176,6 @@
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [Jamesits/terminal-duplicator](https://github.com/Jamesits/terminal-duplicator) - Record your terminal and share it with the world on a web page.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
