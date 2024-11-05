@@ -21,7 +21,6 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
-- [Stylus](#stylus)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -124,6 +123,7 @@
 - [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
 - [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Browser Extension to Sync Video Playback on All Video Platforms / 一起看视频浏览器插件，兼容所有平台
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
+- [Eurkon/hexo-theme-butterfly-eurkon](https://github.com/Eurkon/hexo-theme-butterfly-eurkon) - hexo-theme-butterfly魔改
 - [Lete114/CardLink](https://github.com/Lete114/CardLink) - 为页面上的超链接生成卡片式链接 | Generate card-based links for hyperlinks on the page
 - [TeamAOF/All-of-Fabric-6](https://github.com/TeamAOF/All-of-Fabric-6) - Modpack containing the latest & best of Fabric on 1.19
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
@@ -223,10 +223,6 @@
 - [valetzx/kanboardonreplit](https://github.com/valetzx/kanboardonreplit) - 在Replit部署kanboard并使用postgresql数据库
 - [valetzx/typechonreplitwithpg](https://github.com/valetzx/typechonreplitwithpg) - 在Replit部署typecho并使用postgresql数据库
 - [chuyua/relp-nodebb](https://github.com/chuyua/relp-nodebb) - 在 Replit 部署 nodebb论坛并使用PostgreSQL数据库
-
-## Stylus 
-
-- [Eurkon/hexo-theme-butterfly-eurkon](https://github.com/Eurkon/hexo-theme-butterfly-eurkon) - hexo-theme-butterfly魔改
 
 ## TeX 
 
